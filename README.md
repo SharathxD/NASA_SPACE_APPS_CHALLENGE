@@ -36,7 +36,7 @@ A web platform designed to help students and teachers engage with the 17 Sustain
 
 1. *Clone the repository*:
    bash
-   git clone https://github.com/yourusername/projectname.git
+   git clone https://github.com/SharathxD/NASA_SPACE_APPS_CHALLENGE.git
 
 2. **Install the dependencies**:
    bash
@@ -49,9 +49,9 @@ A web platform designed to help students and teachers engage with the 17 Sustain
 
 
 # Landing Page
-![mainpage](https://github.com/Channaveer2004/SDG_Classroom_NASA_SpaceApps_Challenge/blob/master/assets/images/main.png)
+![mainpage](https://github.com/SharathxD/SDG_Classroom_NASA_SpaceApps_Challenge/blob/master/assets/images/main.png)
 
-![globe](https://github.com/Channaveer2004/SDG_Classroom_NASA_SpaceApps_Challenge/blob/master/assets/images/globe.png)
+![globe](https://github.com/SharathxD/SDG_Classroom_NASA_SpaceApps_Challenge/blob/master/assets/images/globe.png)
 
 # INTERACTIVE QUIZ on SDG
-![quiz](https://github.com/Channaveer2004/SDG_Classroom_NASA_SpaceApps_Challenge/blob/master/assets/images/interactivequiz.png)
+![quiz](https://github.com/SharathxD/SDG_Classroom_NASA_SpaceApps_Challenge/blob/master/assets/images/interactivequiz.png)
