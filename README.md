@@ -1,4 +1,4 @@
-![livenews](https://github.com/user-attachments/assets/a9a433af-2fe9-454d-85f0-8981a4532085)# Sustainable Development Goals for Classroom
+# Sustainable Development Goals for Classroom
 
 A web platform designed to help students and teachers engage with the 17 Sustainable Development Goals (SDGs). This platform provides learning materials, resources, and interactive content to understand and contribute to global sustainability efforts.
 
