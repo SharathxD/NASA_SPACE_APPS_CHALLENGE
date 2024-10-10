@@ -1,4 +1,4 @@
-# Sustainable Development Goals for Classroom
+![livenews](https://github.com/user-attachments/assets/a9a433af-2fe9-454d-85f0-8981a4532085)# Sustainable Development Goals for Classroom
 
 A web platform designed to help students and teachers engage with the 17 Sustainable Development Goals (SDGs). This platform provides learning materials, resources, and interactive content to understand and contribute to global sustainability efforts.
 
@@ -49,9 +49,12 @@ A web platform designed to help students and teachers engage with the 17 Sustain
 
 
 # Landing Page
-![mainpage](https://github.com/SharathxD/SDG_Classroom_NASA_SpaceApps_Challenge/blob/master/assets/images/main.png)
+![mainpage](https://github.com/SharathxD/NASA_SPACE_APPS_CHALLENGE/blob/main/assets/images/main.png)
 
-![globe](https://github.com/SharathxD/SDG_Classroom_NASA_SpaceApps_Challenge/blob/master/assets/images/globe.png)
+![globe](https://github.com/SharathxD/NASA_SPACE_APPS_CHALLENGE/blob/main/assets/images/globe.png)
 
 # INTERACTIVE QUIZ on SDG
-![quiz](https://github.com/SharathxD/SDG_Classroom_NASA_SpaceApps_Challenge/blob/master/assets/images/interactivequiz.png)
+![quiz](https://github.com/SharathxD/NASA_SPACE_APPS_CHALLENGE/blob/main/assets/images/interactivequiz.png)
+
+# Latest News
+![news](https://github.com/SharathxD/NASA_SPACE_APPS_CHALLENGE/blob/main/assets/images/livenews.png)
