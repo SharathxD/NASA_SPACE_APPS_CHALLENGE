@@ -137,7 +137,7 @@ function CardGrid({ cards }: { cards: { id: number; title: string; content: stri
 
 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         {filteredCards.map((card) => (
-          <Link key={card.id} href={`/goal/${card.id}`}>
+          <Link key={card.id} href={`SdgCards/goal/[${card.id}]`}>
             <Card className="bg-black border shadow rounded-lg overflow-hidden">
               <CardHeader>
                 <CardTitle>{card.title}</CardTitle>
