@@ -46,7 +46,7 @@ A web platform designed to help students and teachers engage with the 17 Sustain
    ```bash
    npm run dev
 
-
+# Deployed page : 
 
 # Landing Page
 ![mainpage](https://github.com/SharathxD/NASA_SPACE_APPS_CHALLENGE/blob/main/assets/images/main.png)
