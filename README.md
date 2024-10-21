@@ -46,8 +46,7 @@ A web platform designed to help students and teachers engage with the 17 Sustain
    ```bash
    npm run dev
 
-# Deployed page : 
-SDG_GOALS[https://sdg-goals-c.vercel.app/]
+# [SDG_GOALS](https://sdg-goals-c.vercel.app/)
 
 # Landing Page
 ![mainpage](https://github.com/SharathxD/NASA_SPACE_APPS_CHALLENGE/blob/main/assets/images/main.png)
